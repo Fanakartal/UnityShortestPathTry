@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/pointGraphDemoScene.unity
+    guid: e7e58d04fd0d71a40b8374fc54d89b6b
